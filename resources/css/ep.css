@@ -1,0 +1,11 @@
+.alertbar{
+	height: 45px;
+    width: 90%;
+    color: black;
+    background: red;
+    margin-left: 57px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
